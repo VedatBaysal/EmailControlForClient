@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EmailControlForClient.Infrastructure.Abstractions/1.0.0": {
+        "runtime": {
+          "EmailControlForClient.Infrastructure.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmailControlForClient.Infrastructure.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

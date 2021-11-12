@@ -1,0 +1,12 @@
+C:\Users\vedat\source\repos\EmailControlForClient\EmailControlForClient.Infrastructure.Abstractions\bin\Debug\net5.0\EmailControlForClient.Infrastructure.Abstractions.deps.json
+C:\Users\vedat\source\repos\EmailControlForClient\EmailControlForClient.Infrastructure.Abstractions\bin\Debug\net5.0\EmailControlForClient.Infrastructure.Abstractions.dll
+C:\Users\vedat\source\repos\EmailControlForClient\EmailControlForClient.Infrastructure.Abstractions\bin\Debug\net5.0\ref\EmailControlForClient.Infrastructure.Abstractions.dll
+C:\Users\vedat\source\repos\EmailControlForClient\EmailControlForClient.Infrastructure.Abstractions\bin\Debug\net5.0\EmailControlForClient.Infrastructure.Abstractions.pdb
+C:\Users\vedat\source\repos\EmailControlForClient\EmailControlForClient.Infrastructure.Abstractions\obj\Debug\net5.0\EmailControlForClient.Infrastructure.Abstractions.csproj.AssemblyReference.cache
+C:\Users\vedat\source\repos\EmailControlForClient\EmailControlForClient.Infrastructure.Abstractions\obj\Debug\net5.0\EmailControlForClient.Infrastructure.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedat\source\repos\EmailControlForClient\EmailControlForClient.Infrastructure.Abstractions\obj\Debug\net5.0\EmailControlForClient.Infrastructure.Abstractions.AssemblyInfoInputs.cache
+C:\Users\vedat\source\repos\EmailControlForClient\EmailControlForClient.Infrastructure.Abstractions\obj\Debug\net5.0\EmailControlForClient.Infrastructure.Abstractions.AssemblyInfo.cs
+C:\Users\vedat\source\repos\EmailControlForClient\EmailControlForClient.Infrastructure.Abstractions\obj\Debug\net5.0\EmailControlForClient.Infrastructure.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\vedat\source\repos\EmailControlForClient\EmailControlForClient.Infrastructure.Abstractions\obj\Debug\net5.0\EmailControlForClient.Infrastructure.Abstractions.dll
+C:\Users\vedat\source\repos\EmailControlForClient\EmailControlForClient.Infrastructure.Abstractions\obj\Debug\net5.0\ref\EmailControlForClient.Infrastructure.Abstractions.dll
+C:\Users\vedat\source\repos\EmailControlForClient\EmailControlForClient.Infrastructure.Abstractions\obj\Debug\net5.0\EmailControlForClient.Infrastructure.Abstractions.pdb
